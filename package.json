@@ -1,0 +1,29 @@
+{
+  "name": "my-api-basics",
+  "version": "1.0.0",
+  "description": "Code to generate basic rest api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhishekMM27/my-api-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhishekMM27/my-api-basics/issues"
+  },
+  "homepage": "https://github.com/AbhishekMM27/my-api-basics#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.11"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "eslint": "^6.8.0",
+    "nodemon": "^2.0.3"
+  }
+}
