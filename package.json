@@ -6,20 +6,15 @@
   "scripts": {
     "start": "nodemon app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AbhishekMM27/my-api-basics.git"
-  },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "Node",
+    "Mongo DB",
+    "Express"
+  ],
+  "author": "Abhishek Agrawal",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AbhishekMM27/my-api-basics/issues"
-  },
-  "homepage": "https://github.com/AbhishekMM27/my-api-basics#readme",
   "dependencies": {
-    "express": "^4.17.1",
-    "mongoose": "^5.11.8"
+    "express": "^4.17.1"
   },
   "devDependencies": {
     "dotenv": "^8.2.0",
